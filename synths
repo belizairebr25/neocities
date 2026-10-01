@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" href="style.css">
+  <title>B&lstrok;izz&aring;rd synths</title>
+  <link rel="icon" type="image/xicon" href="me.png">
+  <body>
+  
+   <article>
+    <h1>B&lstrok;izz&aring;rd</h1>
+    <p>My hardware and software synthmaking blog for all u nerds</p>
+    <p> STALK ME: on <a href="https://github.com/belizairebr25">the hub</a> (github) on <a href="https://www.youtube.com/@blizzard4621-/videos"> youtube </a> or on <a href="https://soundcloud.com/belizairebrician">soundcloud</a> if ur like that </p>
+   </article>
+   
+   <ul>
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="synths.html">Synths</a></li>
+  <li><a href="music.html">Music</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="portfolio.html">Portfolio</a></li>
+  <li><a href="fun.html">Fun</a></li>
+</ul>
+
+
+  <article>
+  <h1>Hardware Synth</h1>
+  <p1>7 January 2026</p1>
+  <p>My baddd but y'all are lowkey late to the party on everything I'm doing rn so like here's where I was 7 months ago when I had to present my senior capstone project. I started this project because I was obsessed with late 00's metalcore and bands like attack attack all used microkorgs in their music. I couldn't afford one so I was like damn guess I gotta make my own. Because youtube was my pipeline of course I became obsessed with building a modular synth so like here's: <a href="https://youtu.be/0WuO6GwTb5s?si=woEgP_saMb1sUDjb"> the video of that </a></p>
+    <p>I ended up spending way more than a microkorg costs on this project so like do with that info what you will. The part at the end about what I was going to do ended up being totally different because I discovered the AS3340 VCO IC which I'm now using in my oscillator design. I have two prototypes that I want to use for FM but it's not exactly there yet. Last night I got both of them to make noise and such because the real biggest problem I've had for the entirety of the project was the power supply. I never even wanted to make power supplies but I ended up making so many iterations that just don't cut it or worked for a while but under assymetrical loads would collapse and try to fry all my hard work or worse they'd just catch fire like that one time... be careful with virtual grounds guys XD. So like I finally got my first PSU on monday and it's great I love it. 
+    </p>
+    <p>Next I want to get the scaling right and I suppose I have to make a sequencer for it before I have fun which has literally been the case for a year and a half now. I don't know why but writing an operating system for this has just been the most annoying task to actually do. Like I've written two and a half ROV operating systems practically on my own but a sequencer that's more than an arduino iterating through preprogrammed notes is beyond me? Wild. I guess the sequencer is the hardest because the musicality relies on it. Like I need to integrate midi, user input matrix reading, and output scaling without too much overhead but just thinking about it makes me be like I'd rather go mess around with whatever neocities is XD.</p>
+    <p>The reason I call this the hardware synth is because I am also trying to write a software dx7-esque FM synth in C to eventually run on a microcontroller, but I hardly know C and ironically enough all it has is a user interface and no fm engine yet xd. We'll see where that gets but the hardware synth is my priority rn.</p>
+    <p>I plan to eventually get pcbs made for an oscillator eurorack module or smth like that for this as3340 oscillator once I ensure I know what I'm doing with the breadboard. I have plans for a really cool filter but it might be too crazy for now(it's hella expensive bc it would need power for triodes) so like 4 things at a time for now.</p>
+    <div class="image-container">
+    <img src="jan7synth7.JPG" alt="Oscillators">
+    </div>
+    <p1>Oscillators 7 January 2026 B&lstrok;izz&aring;rd</p1>
+  </article>
+  
+  <img src="/neocities.png">
+  </body>
+</html>
