@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" href="style.css">
+  <title>B&lstrok;izz&aring;rd</title>
+  <link rel="icon" type="image/xicon" href="me.png">
+  <body>
+  
+   <article>
+    <h1>B&lstrok;izz&aring;rd</h1>
+    <p>My blog where I talk about the boring stuff I do in order to try to make it look fun XD</p>
+    <p> STALK ME: on <a href="https://github.com/belizairebr25">the hub</a> (github) on <a href="https://www.youtube.com/@blizzard4621-/videos"> youtube </a> or on <a href="https://soundcloud.com/belizairebrician">soundcloud</a> if ur like that </p>
+   </article>
+   
+   <ul>
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="synths.html">Synths</a></li>
+  <li><a href="music.html">Music</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="portfolio.html">Portfolio</a></li>
+  <li><a href="fun.html">Fun</a></li>
+</ul>
+
+
+  <article>
+  <h1>Technocracy</h1>
+  <p1>7 January 2026</p1>
+  <p>Technocracy is my first ever album that I actually released and I like a few tracks on it. It's mostly furry ravecore or whatever that genre is though the bonus track at the end is metalcore. The only two songs with original lyrics have the same lyrics so if you miss 'em on one you'll probably still miss 'em on the other because I'm fluffing unintelligible :3 I think the album took about 8 months to make not counting the age of the bonus track but I wasn't making an album really; one day I had a cool album name idea(that I later discovered was already a word) and later that same day I recorded otherwise and felt like I had enough stuff to put an ep thingy out (what's the difference between EP and LP in the big 26 anyways? The album I never released and don't feel like naming was a bit emotionally deeper and was much more metalcore but my production skills were not at a point where I feel like releasing that stuff despite the fact that a lot of it I actually can't recreate. Almost all of the songs from that album are already on my <a href="https://www.youtube.com/@blizzard4621-/videos"> youtube </a> and on my <a href="https://soundcloud.com/belizairebrician/sets/metalcore-era"> soundcloud </a> they'e vaguely arranged in album format though the order is random and a few songs are excluded because my soundcloud groups more by genre. Good time to point out that the opening track on Technocracy is actually banned on soundcloud thanks to copywrong nonsense. So like enjoy the album def leave comments about how I sold out or how you think I suck and hopefully you'll hear more from me in the future</p>
+  </article>
+ 
+  
+  <img src="/neocities.png">
+  </body>
+</html>
